@@ -1,4 +1,4 @@
-import AvailableMeals from "./AvailableMeals.Js";
+import AvailableMeals from "./AvailableMeals";
 import MealsSummary from "./MealsSummary";
 
 const Meals = () => {
@@ -7,4 +7,4 @@ const Meals = () => {
         <AvailableMeals/>
     </>
 };
-export default Meals
+export default Meals;
